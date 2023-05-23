@@ -1,0 +1,2188 @@
+.energy-page-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+}
+.energy-page-desktop1 {
+  width: 100%;
+  height: 1086px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  box-shadow: 0px 0px 38px -2px rgba(0, 0, 0, 0.30000001192092896) ;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 12px;
+  background-color: rgba(28, 28, 29, 0.8500000238418579);
+}
+.energy-page-frame186 {
+  gap: 189px;
+  top: 64px;
+  left: 56px;
+  width: 866px;
+  display: flex;
+  position: absolute;
+  align-items: center;
+  flex-shrink: 0;
+}
+.energy-page-frame284 {
+  gap: 6px;
+  display: flex;
+  align-items: center;
+}
+.energy-page-group427318090 {
+  width: 34px;
+  height: 24.96955680847168px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.energy-page-group427318088 {
+  top: 0px;
+  left: 0px;
+  width: 34.00044631958008px;
+  border: 2px dashed rgba(120, 120, 120, 0.4);
+  height: 24.96955680847168px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.energy-page-frame159 {
+  gap: 36px;
+  width: 544px;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.energy-page-frame158 {
+  gap: 34px;
+  display: flex;
+  align-items: flex-start;
+}
+.energy-page-frame157 {
+  gap: 4px;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+.energy-page-text {
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  font-size: 18px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.energy-page-vector23 {
+  width: 85px;
+  height: 1px;
+}
+.energy-page-text002 {
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  font-size: 18px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.energy-page-frame152 {
+  gap: 12px;
+  width: 313px;
+  display: flex;
+  padding: 12px 24px;
+  box-shadow: 0px 0px 15px 0px rgba(0, 0, 0, 0.10000000149011612) ;
+  align-items: center;
+  flex-shrink: 0;
+  border-radius: 12px;
+  justify-content: space-between;
+  background-color: rgba(255, 255, 255, 0.10000000149011612);
+}
+.energy-page-text004 {
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  font-size: 16px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.energy-page-search {
+  width: 24px;
+  height: 24px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  background-color: rgba(0, 0, 0, 0);
+}
+.energy-page-iconly-light-outline-search {
+  top: 2.000000238418579px;
+  left: 1.9997999668121338px;
+  width: 20.264657974243164px;
+  height: 20.721704483032227px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.energy-page-search1 {
+  top: 0px;
+  left: 0px;
+  width: 20.264657974243164px;
+  height: 20.721704483032227px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.energy-page-combined-shape {
+  top: 0px;
+  left: 0px;
+  width: 20px;
+  height: 21px;
+  position: absolute;
+}
+.energy-page-frame271 {
+  gap: 40px;
+  top: 157px;
+  left: 56px;
+  width: 866px;
+  height: 830px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+}
+.energy-page-frame283 {
+  gap: 32px;
+  top: 525px;
+  left: 3px;
+  width: 866px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.energy-page-frame282 {
+  gap: 12px;
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.energy-page-frame280 {
+  gap: 12px;
+  width: 866px;
+  height: 231px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+}
+.energy-page-frame163 {
+  gap: 18px;
+  top: 18px;
+  left: 27px;
+  width: 241px;
+  height: 239px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  box-shadow: 0px 0px 15px 0px rgba(0, 0, 0, 0.10000000149011612) ;
+  align-items: center;
+  flex-shrink: 0;
+  border-radius: 24px;
+  flex-direction: column;
+  justify-content: center;
+  background-image: linear-gradient(180deg, rgba(255, 255, 255, 1) 0%, rgba(112, 112, 112, 1) 100%);
+}
+.energy-page-laindustry {
+  width: 40px;
+  height: 40px;
+}
+.energy-page-frame182 {
+  gap: 4px;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+.energy-page-text006 {
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  font-size: 48px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 700;
+  line-height: 110.00000238418579%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.energy-page-text008 {
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  font-size: 14px;
+  font-style: Medium;
+  text-align: center;
+  font-family: Poppins;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.energy-page-navlink {
+  display: contents;
+}
+.energy-page-frame166 {
+  gap: 18px;
+  top: 29px;
+  left: 348px;
+  width: 212px;
+  height: 184px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  box-shadow: 0px 0px 15px 0px rgba(0, 0, 0, 0.10000000149011612) ;
+  align-items: center;
+  flex-shrink: 0;
+  border-radius: 24px;
+  flex-direction: column;
+  justify-content: center;
+  text-decoration: none;
+  background-image: linear-gradient(180deg, rgba(255, 255, 255, 1) 0%, rgba(112, 112, 112, 1) 100%);
+}
+.energy-page-antdesignfieldtimeoutlined {
+  width: 40px;
+  height: 40px;
+}
+.energy-page-frame184 {
+  gap: 4px;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+.energy-page-text010 {
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  font-size: 48px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 700;
+  line-height: 110.00000238418579%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.energy-page-text012 {
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  font-size: 14px;
+  font-style: Medium;
+  text-align: center;
+  font-family: Poppins;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.energy-page-navlink1 {
+  display: contents;
+}
+.energy-page-frame165 {
+  gap: 18px;
+  top: 29px;
+  left: 640px;
+  width: 212px;
+  height: 184px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  box-shadow: 0px 0px 15px 0px rgba(0, 0, 0, 0.10000000149011612) ;
+  align-items: center;
+  flex-shrink: 0;
+  border-radius: 24px;
+  flex-direction: column;
+  justify-content: center;
+  text-decoration: none;
+  background-image: linear-gradient(180deg, rgba(255, 255, 255, 1) 0%, rgba(112, 112, 112, 1) 100%);
+}
+.energy-page-bxtask {
+  width: 40px;
+  height: 40px;
+}
+.energy-page-frame183 {
+  gap: 4px;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+.energy-page-text014 {
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  font-size: 48px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 700;
+  line-height: 110.00000238418579%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.energy-page-text016 {
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  font-size: 14px;
+  font-style: Medium;
+  text-align: center;
+  font-family: Poppins;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.energy-page-frame178 {
+  gap: 48px;
+  top: 5px;
+  left: -15px;
+  width: 866px;
+  display: flex;
+  padding: 24px 28px;
+  overflow: hidden;
+  position: absolute;
+  box-shadow: 0px 0px 15px 0px rgba(0, 0, 0, 0.10000000149011612) ;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-radius: 32px;
+  flex-direction: column;
+  background-image: linear-gradient(180deg, rgba(255, 255, 255, 1) 0%, rgba(112, 112, 112, 1) 100%);
+}
+.energy-page-frame177 {
+  gap: 6px;
+  width: 810px;
+  height: 101px;
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+  justify-content: space-between;
+}
+.energy-page-frame285 {
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.energy-page-frame281 {
+  gap: 14px;
+  display: flex;
+  align-items: center;
+}
+.energy-page-text018 {
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  font-size: 44px;
+  font-style: SemiBold;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.energy-page-arrowupcircle {
+  width: 26px;
+  height: 26px;
+}
+.energy-page-text020 {
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  font-size: 18px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.energy-page-frame175 {
+  gap: 18px;
+  display: flex;
+  align-items: center;
+}
+.energy-page-text022 {
+  color: rgba(153, 252, 3, 1);
+  height: auto;
+  font-size: 16px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.energy-page-morevertical {
+  width: 24px;
+  height: 24px;
+}
+.energy-page-frame174 {
+  width: 810px;
+  height: 103px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.energy-page-frame173 {
+  gap: 101px;
+  top: -20px;
+  left: 0px;
+  width: 809px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+}
+.energy-page-frame1661 {
+  gap: 11px;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+.energy-page-vector25 {
+  width: 0px;
+  height: 90px;
+}
+.energy-page-text024 {
+  color: rgba(255, 255, 255, 1);
+  width: 29px;
+  height: auto;
+  font-size: 12px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Poppins;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.energy-page-frame167 {
+  gap: 11px;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+.energy-page-vector26 {
+  width: 0px;
+  height: 90px;
+}
+.energy-page-text026 {
+  color: rgba(255, 255, 255, 1);
+  width: 29px;
+  height: auto;
+  font-size: 12px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Poppins;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.energy-page-frame168 {
+  gap: 11px;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+.energy-page-vector27 {
+  width: 0px;
+  height: 90px;
+}
+.energy-page-text028 {
+  color: rgba(255, 255, 255, 1);
+  width: 29px;
+  height: auto;
+  font-size: 12px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Poppins;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.energy-page-frame169 {
+  gap: 11px;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+.energy-page-vector28 {
+  width: 0px;
+  height: 90px;
+}
+.energy-page-text030 {
+  color: rgba(255, 255, 255, 1);
+  width: 29px;
+  height: auto;
+  font-size: 12px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Poppins;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.energy-page-frame170 {
+  gap: 11px;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+.energy-page-vector29 {
+  width: 0px;
+  height: 90px;
+}
+.energy-page-text032 {
+  color: rgba(255, 255, 255, 1);
+  width: 29px;
+  height: auto;
+  font-size: 12px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Poppins;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.energy-page-frame171 {
+  gap: 11px;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+.energy-page-vector30 {
+  width: 0px;
+  height: 90px;
+}
+.energy-page-text034 {
+  color: rgba(255, 255, 255, 1);
+  width: 29px;
+  height: auto;
+  font-size: 12px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Poppins;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.energy-page-frame172 {
+  gap: 11px;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+.energy-page-vector31 {
+  width: 0px;
+  height: 90px;
+}
+.energy-page-text036 {
+  color: rgba(255, 255, 255, 1);
+  width: 29px;
+  height: auto;
+  font-size: 12px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Poppins;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.energy-page-vector {
+  top: -15.2960205078125px;
+  left: 0px;
+  width: 810px;
+  height: 85px;
+  position: absolute;
+}
+.energy-page-frame1662 {
+  gap: 18px;
+  top: 323px;
+  left: 3px;
+  width: 866px;
+  height: 184px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  box-shadow: 0px 0px 15px 0px rgba(0, 0, 0, 0.10000000149011612) ;
+  align-items: center;
+  flex-shrink: 0;
+  border-radius: 24px;
+  flex-direction: column;
+  justify-content: center;
+  background-image: linear-gradient(180deg, rgba(255, 255, 255, 1) 0%, rgba(112, 112, 112, 1) 100%);
+}
+.energy-page-text038 {
+  color: rgba(255, 255, 255, 1);
+  width: 393px;
+  height: auto;
+  font-size: 36px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Poppins;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.energy-page-frame267 {
+  gap: 64px;
+  top: 0px;
+  left: 964px;
+  width: 476px;
+  height: 1044px;
+  display: flex;
+  padding: 108px 40px 32px 40px;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  flex-direction: column;
+  justify-content: center;
+  background-color: rgba(27, 27, 27, 0.4000000059604645);
+}
+.energy-page-frame274 {
+  gap: 64px;
+  width: 388px;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+  justify-content: space-between;
+}
+.energy-page-frame191 {
+  gap: 32px;
+  display: flex;
+  align-items: flex-start;
+}
+.energy-page-bell {
+  width: 24px;
+  height: 24px;
+}
+.energy-page-calendar {
+  width: 24px;
+  height: 24px;
+}
+.energy-page-frame140 {
+  gap: 15px;
+  display: flex;
+  padding: 6px 6px 6px 16px;
+  align-items: center;
+  border-radius: 90px;
+  background-color: rgba(36, 36, 36, 1);
+}
+.energy-page-text040 {
+  color: rgba(255, 255, 255, 0.949999988079071);
+  height: auto;
+  font-size: 16px;
+  font-style: Medium;
+  text-align: center;
+  font-family: Poppins;
+  font-weight: 500;
+  line-height: 150%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.energy-page-unsplashw-yv--xcx--tg {
+  width: 32px;
+  height: 32px;
+  border-color: rgba(255, 255, 255, 1);
+  border-style: solid;
+  border-width: 1px;
+}
+.energy-page-frame265 {
+  gap: 14px;
+  display: flex;
+  padding: 24px;
+  box-shadow: 0px 0px 6px 0px rgba(0, 0, 0, 0.25) ;
+  align-items: flex-start;
+  border-radius: 30px;
+  flex-direction: column;
+  background-color: rgba(23, 23, 23, 1);
+}
+.energy-page-frame277 {
+  gap: 4px;
+  width: 348px;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+  justify-content: space-between;
+}
+.energy-page-chevronleft {
+  width: 24px;
+  height: 24px;
+}
+.energy-page-text042 {
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  font-size: 24px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.energy-page-text043 {
+  font-weight: 500;
+}
+.energy-page-chevronright {
+  width: 24px;
+  height: 24px;
+}
+.energy-page-vector41 {
+  width: 348px;
+  height: 1px;
+}
+.energy-page-frame243 {
+  width: 340px;
+  height: 320px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.energy-page-rectangle59 {
+  top: 112px;
+  left: 0px;
+  width: 90px;
+  height: 40px;
+  position: absolute;
+  border-radius: 33px;
+}
+.energy-page-rectangle57 {
+  top: 168px;
+  left: 100px;
+  width: 140px;
+  height: 40px;
+  position: absolute;
+  border-radius: 33px;
+}
+.energy-page-rectangle58 {
+  top: 56px;
+  left: 250px;
+  width: 90px;
+  height: 40px;
+  position: absolute;
+  border-radius: 33px;
+}
+.energy-page-frame242 {
+  gap: 16px;
+  top: 0px;
+  left: 0px;
+  width: 40px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.energy-page-frame194 {
+  gap: 10px;
+  width: 40px;
+  height: 40px;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+  justify-content: center;
+}
+.energy-page-text045 {
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  font-size: 14px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Poppins;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.energy-page-frame201 {
+  gap: 10px;
+  width: 40px;
+  height: 40px;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+  flex-direction: column;
+  justify-content: center;
+}
+.energy-page-text047 {
+  color: rgba(255, 255, 255, 0.6000000238418579);
+  height: auto;
+  font-size: 16px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Poppins;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.energy-page-frame208 {
+  gap: 10px;
+  width: 40px;
+  height: 40px;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+  flex-direction: column;
+  justify-content: center;
+}
+.energy-page-text049 {
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  font-size: 16px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Poppins;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.energy-page-frame215 {
+  gap: 10px;
+  width: 40px;
+  height: 40px;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+  flex-direction: column;
+  justify-content: center;
+}
+.energy-page-text050 {
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  font-size: 16px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Poppins;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.energy-page-frame222 {
+  gap: 10px;
+  width: 40px;
+  height: 40px;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+  flex-direction: column;
+  justify-content: center;
+}
+.energy-page-text052 {
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  font-size: 16px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Poppins;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.energy-page-frame223 {
+  gap: 10px;
+  width: 40px;
+  height: 40px;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+  border-radius: 71px;
+  flex-direction: column;
+  justify-content: center;
+  background-color: rgba(253, 10, 118, 1);
+}
+.energy-page-text054 {
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  font-size: 16px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Poppins;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.energy-page-frame241 {
+  gap: 16px;
+  top: 0px;
+  left: 50px;
+  width: 40px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.energy-page-frame195 {
+  gap: 10px;
+  width: 40px;
+  height: 40px;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+  justify-content: center;
+}
+.energy-page-text056 {
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  font-size: 14px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Poppins;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.energy-page-frame202 {
+  gap: 10px;
+  width: 40px;
+  height: 40px;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+  flex-direction: column;
+  justify-content: center;
+}
+.energy-page-text058 {
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  font-size: 16px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Poppins;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.energy-page-frame209 {
+  gap: 10px;
+  width: 40px;
+  height: 40px;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+  border-radius: 71px;
+  flex-direction: column;
+  justify-content: center;
+  background-color: rgba(25, 214, 223, 1);
+}
+.energy-page-text059 {
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  font-size: 16px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Poppins;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.energy-page-frame216 {
+  gap: 10px;
+  width: 40px;
+  height: 40px;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+  flex-direction: column;
+  justify-content: center;
+}
+.energy-page-text060 {
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  font-size: 16px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Poppins;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.energy-page-frame225 {
+  gap: 10px;
+  width: 40px;
+  height: 40px;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+  flex-direction: column;
+  justify-content: center;
+}
+.energy-page-text062 {
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  font-size: 16px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Poppins;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.energy-page-frame224 {
+  gap: 10px;
+  width: 40px;
+  height: 40px;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+  flex-direction: column;
+  justify-content: center;
+}
+.energy-page-text064 {
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  font-size: 16px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Poppins;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.energy-page-frame240 {
+  gap: 16px;
+  top: 0px;
+  left: 100px;
+  width: 40px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.energy-page-frame196 {
+  gap: 10px;
+  width: 40px;
+  height: 40px;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+  justify-content: center;
+}
+.energy-page-text066 {
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  font-size: 14px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Poppins;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.energy-page-frame203 {
+  gap: 10px;
+  width: 40px;
+  height: 40px;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+  flex-direction: column;
+  justify-content: center;
+}
+.energy-page-text068 {
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  font-size: 16px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Poppins;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.energy-page-frame210 {
+  gap: 10px;
+  width: 40px;
+  height: 40px;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+  flex-direction: column;
+  justify-content: center;
+}
+.energy-page-text069 {
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  font-size: 16px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Poppins;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.energy-page-frame217 {
+  gap: 10px;
+  width: 40px;
+  height: 40px;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+  border-radius: 48px;
+  flex-direction: column;
+  justify-content: center;
+  background-color: rgba(255, 152, 0, 1);
+}
+.energy-page-text070 {
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  font-size: 16px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Poppins;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.energy-page-frame226 {
+  gap: 10px;
+  width: 40px;
+  height: 40px;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+  flex-direction: column;
+  justify-content: center;
+}
+.energy-page-text072 {
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  font-size: 16px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Poppins;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.energy-page-frame227 {
+  gap: 10px;
+  width: 40px;
+  height: 40px;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+  flex-direction: column;
+  justify-content: center;
+}
+.energy-page-text074 {
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  font-size: 16px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Poppins;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.energy-page-frame239 {
+  gap: 16px;
+  top: 0px;
+  left: 150px;
+  width: 40px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.energy-page-frame197 {
+  gap: 10px;
+  width: 40px;
+  height: 40px;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+  justify-content: center;
+}
+.energy-page-text076 {
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  font-size: 14px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Poppins;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.energy-page-frame204 {
+  gap: 10px;
+  width: 40px;
+  height: 40px;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+  flex-direction: column;
+  justify-content: center;
+}
+.energy-page-text078 {
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  font-size: 16px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Poppins;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.energy-page-frame211 {
+  gap: 10px;
+  width: 40px;
+  height: 40px;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+  flex-direction: column;
+  justify-content: center;
+}
+.energy-page-text079 {
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  font-size: 16px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Poppins;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.energy-page-frame218 {
+  gap: 10px;
+  width: 40px;
+  height: 40px;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+  flex-direction: column;
+  justify-content: center;
+}
+.energy-page-text081 {
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  font-size: 16px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Poppins;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.energy-page-frame229 {
+  gap: 10px;
+  width: 40px;
+  height: 40px;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+  flex-direction: column;
+  justify-content: center;
+}
+.energy-page-text083 {
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  font-size: 16px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Poppins;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.energy-page-frame228 {
+  gap: 10px;
+  width: 40px;
+  height: 40px;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+  flex-direction: column;
+  justify-content: center;
+}
+.energy-page-text085 {
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  font-size: 16px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Poppins;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.energy-page-frame238 {
+  gap: 16px;
+  top: 0px;
+  left: 200px;
+  width: 40px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.energy-page-frame198 {
+  gap: 10px;
+  width: 40px;
+  height: 40px;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+  flex-direction: column;
+  justify-content: center;
+}
+.energy-page-text087 {
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  font-size: 14px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Poppins;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.energy-page-frame205 {
+  gap: 10px;
+  width: 40px;
+  height: 40px;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+  flex-direction: column;
+  justify-content: center;
+}
+.energy-page-text089 {
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  font-size: 16px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Poppins;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.energy-page-frame212 {
+  gap: 10px;
+  width: 40px;
+  height: 40px;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+  flex-direction: column;
+  justify-content: center;
+}
+.energy-page-text090 {
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  font-size: 16px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Poppins;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.energy-page-frame219 {
+  gap: 10px;
+  width: 40px;
+  height: 40px;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+  border-radius: 48px;
+  flex-direction: column;
+  justify-content: center;
+  background-color: rgba(255, 152, 0, 1);
+}
+.energy-page-text092 {
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  font-size: 16px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Poppins;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.energy-page-frame230 {
+  gap: 10px;
+  width: 40px;
+  height: 40px;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+  flex-direction: column;
+  justify-content: center;
+}
+.energy-page-text094 {
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  font-size: 16px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Poppins;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.energy-page-frame231 {
+  gap: 10px;
+  width: 40px;
+  height: 40px;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+  flex-direction: column;
+  justify-content: center;
+}
+.energy-page-text096 {
+  color: rgba(255, 255, 255, 0.6000000238418579);
+  height: auto;
+  font-size: 16px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Poppins;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.energy-page-frame237 {
+  gap: 16px;
+  top: 0px;
+  left: 250px;
+  width: 40px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.energy-page-frame199 {
+  gap: 10px;
+  width: 40px;
+  height: 40px;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+  justify-content: center;
+}
+.energy-page-text097 {
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  font-size: 14px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Poppins;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.energy-page-frame206 {
+  gap: 10px;
+  width: 40px;
+  height: 40px;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+  border-radius: 71px;
+  flex-direction: column;
+  justify-content: center;
+  background-color: rgba(25, 214, 223, 1);
+}
+.energy-page-text099 {
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  font-size: 16px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Poppins;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.energy-page-frame213 {
+  gap: 10px;
+  width: 40px;
+  height: 40px;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+  flex-direction: column;
+  justify-content: center;
+}
+.energy-page-text100 {
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  font-size: 16px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Poppins;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.energy-page-frame220 {
+  gap: 10px;
+  width: 40px;
+  height: 40px;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+  flex-direction: column;
+  justify-content: center;
+}
+.energy-page-text102 {
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  font-size: 16px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Poppins;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.energy-page-frame234 {
+  gap: 10px;
+  width: 40px;
+  height: 40px;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+  flex-direction: column;
+  justify-content: center;
+}
+.energy-page-text104 {
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  font-size: 16px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Poppins;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.energy-page-frame232 {
+  gap: 10px;
+  width: 40px;
+  height: 40px;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+  flex-direction: column;
+  justify-content: center;
+}
+.energy-page-text106 {
+  color: rgba(255, 255, 255, 0.6000000238418579);
+  height: auto;
+  font-size: 16px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Poppins;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.energy-page-frame236 {
+  gap: 16px;
+  top: 0px;
+  left: 300px;
+  width: 40px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.energy-page-frame200 {
+  gap: 10px;
+  width: 40px;
+  height: 40px;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+  justify-content: center;
+}
+.energy-page-text107 {
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  font-size: 14px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Poppins;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.energy-page-frame207 {
+  gap: 10px;
+  width: 40px;
+  height: 40px;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+  flex-direction: column;
+  justify-content: center;
+}
+.energy-page-text109 {
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  font-size: 16px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Poppins;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.energy-page-frame214 {
+  gap: 10px;
+  width: 40px;
+  height: 40px;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+  flex-direction: column;
+  justify-content: center;
+}
+.energy-page-text110 {
+  color: rgba(255, 255, 255, 0.6000000238418579);
+  height: auto;
+  font-size: 16px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Poppins;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.energy-page-frame221 {
+  gap: 10px;
+  width: 40px;
+  height: 40px;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+  flex-direction: column;
+  justify-content: center;
+}
+.energy-page-text112 {
+  color: rgba(255, 255, 255, 0.6000000238418579);
+  height: auto;
+  font-size: 16px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Poppins;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.energy-page-frame235 {
+  gap: 10px;
+  width: 40px;
+  height: 40px;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+  flex-direction: column;
+  justify-content: center;
+}
+.energy-page-text114 {
+  color: rgba(255, 255, 255, 0.6000000238418579);
+  height: auto;
+  font-size: 16px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Poppins;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.energy-page-frame233 {
+  gap: 10px;
+  width: 40px;
+  height: 40px;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+  flex-direction: column;
+  justify-content: center;
+}
+.energy-page-text116 {
+  color: rgba(255, 255, 255, 0.6000000238418579);
+  height: auto;
+  font-size: 16px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Poppins;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.energy-page-rectangle61 {
+  top: 88px;
+  left: 68px;
+  width: 4px;
+  height: 4px;
+  position: absolute;
+  border-radius: 22px;
+}
+.energy-page-rectangle60 {
+  top: 310px;
+  left: 318px;
+  width: 4px;
+  height: 4px;
+  position: absolute;
+  border-radius: 22px;
+}
+.energy-page-rectangle62 {
+  top: 200px;
+  left: 268px;
+  width: 4px;
+  height: 4px;
+  position: absolute;
+  border-radius: 22px;
+}
+.energy-page-frame266 {
+  gap: 32px;
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.energy-page-frame264 {
+  gap: 18px;
+  width: 396px;
+  display: flex;
+  padding: 24px;
+  box-shadow: 0px 0px 6px 0px rgba(0, 0, 0, 0.25) ;
+  align-items: center;
+  flex-shrink: 0;
+  border-radius: 30px 30px 0 0;
+  flex-direction: column;
+  background-color: rgba(23, 23, 23, 1);
+}
+.energy-page-frame276 {
+  gap: 108px;
+  width: 340px;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.energy-page-text117 {
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  font-size: 24px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.energy-page-frame2361 {
+  gap: 10px;
+  width: 116px;
+  height: 34px;
+  display: flex;
+  padding: 14px;
+  align-items: center;
+  flex-shrink: 0;
+  border-color: rgba(96, 96, 96, 1);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 36px;
+  justify-content: center;
+  background-color: rgba(184, 184, 184, 0.10000000149011612);
+}
+.energy-page-text119 {
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  font-size: 14px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Poppins;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.energy-page-vector42 {
+  width: 348px;
+  height: 1px;
+}
+.energy-page-frame263 {
+  width: 340px;
+  height: 304px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.energy-page-frame249 {
+  gap: 10px;
+  top: 0px;
+  left: 0px;
+  width: 340px;
+  height: 40px;
+  display: flex;
+  position: absolute;
+  align-items: center;
+}
+.energy-page-frame2351 {
+  gap: 10px;
+  top: 0px;
+  left: 0px;
+  width: 40px;
+  height: 40px;
+  display: flex;
+  position: absolute;
+  align-items: center;
+  flex-shrink: 0;
+  flex-direction: column;
+  justify-content: center;
+}
+.energy-page-text121 {
+  color: rgba(255, 255, 255, 0.6000000238418579);
+  height: auto;
+  font-size: 16px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Poppins;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.energy-page-vector37 {
+  top: 20px;
+  left: 50px;
+  width: 290px;
+  height: 1px;
+  position: absolute;
+}
+.energy-page-text123 {
+  top: 28px;
+  left: 159px;
+  color: rgba(255, 255, 255, 1);
+  width: 162px;
+  height: auto;
+  position: absolute;
+  font-size: 14px;
+  font-style: Medium;
+  text-align: center;
+  font-family: Poppins;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.energy-page-frame250 {
+  gap: 10px;
+  top: 66px;
+  left: 0px;
+  width: 340px;
+  height: 40px;
+  display: flex;
+  position: absolute;
+  align-items: center;
+}
+.energy-page-frame245 {
+  gap: 10px;
+  top: 0px;
+  left: 0px;
+  width: 40px;
+  height: 40px;
+  display: flex;
+  position: absolute;
+  align-items: center;
+  flex-shrink: 0;
+  flex-direction: column;
+  justify-content: center;
+}
+.energy-page-text125 {
+  color: rgba(255, 255, 255, 0.6000000238418579);
+  height: auto;
+  font-size: 16px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Poppins;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.energy-page-vector36 {
+  top: 20px;
+  left: 50px;
+  width: 290px;
+  height: 1px;
+  position: absolute;
+}
+.energy-page-frame251 {
+  gap: 10px;
+  top: 132px;
+  left: 0px;
+  width: 340px;
+  height: 40px;
+  display: flex;
+  position: absolute;
+  align-items: center;
+}
+.energy-page-frame246 {
+  gap: 10px;
+  top: 0px;
+  left: 0px;
+  width: 40px;
+  height: 40px;
+  display: flex;
+  position: absolute;
+  align-items: center;
+  flex-shrink: 0;
+  flex-direction: column;
+  justify-content: center;
+}
+.energy-page-text127 {
+  color: rgba(255, 255, 255, 0.6000000238418579);
+  height: auto;
+  font-size: 16px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Poppins;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.energy-page-vector38 {
+  top: 20px;
+  left: 50px;
+  width: 290px;
+  height: 1px;
+  position: absolute;
+}
+.energy-page-frame252 {
+  gap: 10px;
+  top: 198px;
+  left: 0px;
+  width: 340px;
+  height: 40px;
+  display: flex;
+  position: absolute;
+  align-items: center;
+}
+.energy-page-frame247 {
+  gap: 10px;
+  top: 0px;
+  left: 0px;
+  width: 40px;
+  height: 40px;
+  display: flex;
+  position: absolute;
+  align-items: center;
+  flex-shrink: 0;
+  flex-direction: column;
+  justify-content: center;
+}
+.energy-page-text129 {
+  color: rgba(255, 255, 255, 0.6000000238418579);
+  height: auto;
+  font-size: 16px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Poppins;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.energy-page-vector40 {
+  top: 20px;
+  left: 50px;
+  width: 290px;
+  height: 1px;
+  position: absolute;
+}
+.energy-page-frame259 {
+  top: -16px;
+  left: 40px;
+  width: 300px;
+  height: 10px;
+  position: absolute;
+}
+.energy-page-frame253 {
+  gap: 10px;
+  top: 264px;
+  left: 0px;
+  width: 340px;
+  height: 40px;
+  display: flex;
+  position: absolute;
+  align-items: center;
+}
+.energy-page-frame248 {
+  gap: 10px;
+  top: 0px;
+  left: 0px;
+  width: 40px;
+  height: 40px;
+  display: flex;
+  position: absolute;
+  align-items: center;
+  flex-shrink: 0;
+  flex-direction: column;
+  justify-content: center;
+}
+.energy-page-text131 {
+  color: rgba(255, 255, 255, 0.6000000238418579);
+  height: auto;
+  font-size: 16px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Poppins;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.energy-page-vector39 {
+  top: 20px;
+  left: 50px;
+  width: 290px;
+  height: 1px;
+  position: absolute;
+}
+.energy-page-group73 {
+  top: 20px;
+  left: 149px;
+  width: 185px;
+  height: 66px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+  background-image: linear-gradient(157deg, rgba(255, 17, 26, 1) 0%, rgba(252, 9, 133, 1) 100%);
+}
+.energy-page-group74 {
+  top: 152px;
+  left: 72px;
+  width: 210px;
+  height: 66px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+  background-image: linear-gradient(159deg, rgba(24, 214, 223, 0.9900000095367432) 0%, rgba(0, 138, 121, 1) 100%);
+}
+.energy-page-frame258 {
+  gap: 10px;
+  top: 10px;
+  left: 20px;
+  display: flex;
+  position: absolute;
+  align-items: center;
+}
+.energy-page-frame2301 {
+  gap: 10px;
+  width: 31px;
+  height: 31px;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+  border-radius: 48px;
+  flex-direction: column;
+  justify-content: center;
+  background-color: rgba(255, 255, 255, 1);
+}
+.energy-page-text133 {
+  color: rgba(20, 197, 201, 1);
+  height: auto;
+  font-size: 18px;
+  font-style: Bold;
+  text-align: center;
+  font-family: Poppins;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.energy-page-frame256 {
+  gap: 4px;
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+}
