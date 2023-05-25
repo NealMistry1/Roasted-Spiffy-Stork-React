@@ -1,7 +1,9 @@
 :root {
+  --dl-color-text-50: rgba(122, 122, 122, 1);
   --dl-color-gray-500: #595959;
   --dl-color-gray-700: #999999;
   --dl-color-gray-900: #D9D9D9;
+  --dl-color-text-100: rgba(26, 26, 26, 1);
   --dl-size-size-large: 144px;
   --dl-size-size-small: 48px;
   --dl-color-danger-300: #A22020;
@@ -13,6 +15,7 @@
   --dl-size-size-xlarge: 192px;
   --dl-size-size-xsmall: 16px;
   --dl-space-space-unit: 16px;
+  --dl-color-maincolor-1: rgba(237, 186, 255, 1);
   --dl-color-primary-100: #003EB3;
   --dl-color-primary-300: #0074F0;
   --dl-color-primary-500: #14A9FF;
@@ -22,6 +25,7 @@
   --dl-color-success-700: #4CC366;
   --dl-size-size-xxlarge: 288px;
   --dl-size-size-maxwidth: 1400px;
+  --dl-color-default-white: rgba(255, 255, 255, 1);
   --dl-radius-radius-round: 50%;
   --dl-space-space-halfunit: 8px;
   --dl-space-space-sixunits: 96px;
@@ -32,6 +36,7 @@
   --dl-space-space-fiveunits: 80px;
   --dl-space-space-fourunits: 64px;
   --dl-space-space-threeunits: 48px;
+  --dl-color-backgroundcolor-0: rgba(0, 0, 0, 1);
   --dl-space-space-oneandhalfunits: 24px;
 }
 .button {

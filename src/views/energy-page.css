@@ -640,7 +640,7 @@
   border-radius: 24px;
   flex-direction: column;
   justify-content: center;
-  background-image: linear-gradient(180deg, rgba(255, 255, 255, 1) 0%, rgba(112, 112, 112, 1) 100%);
+  background-image: linear-gradient(180deg, rgb(255, 255, 255) 0.00%,rgb(61, 153, 61) 100.00%);
 }
 .energy-page-text038 {
   color: rgba(255, 255, 255, 1);
